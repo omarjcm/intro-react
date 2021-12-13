@@ -4,6 +4,8 @@ import './index.css';
 import App from './App';
 
 ReactDOM.render(
-    <App saludo="Hola mundo" />,
+    <App>
+      Guillermo Pizarro
+    </App>,
   document.getElementById('root')
 );
